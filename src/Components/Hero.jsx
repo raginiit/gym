@@ -7,6 +7,12 @@ import Header from './Header/Header';
           <div className='legt-h'  >left side
 
           <Header/>
+
+
+          <div className='the-best-dd'>
+            <div></div>
+            <span>the best fitness club in the town</span>
+          </div>
           </div>
           <div className='right-h'  >right side
           </div>
