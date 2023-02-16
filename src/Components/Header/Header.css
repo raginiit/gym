@@ -8,14 +8,17 @@
     height:3rem;
 }
 
-.header_menu{
+.header-menu{
     list-style: none;
     display:flex;
     gap:2rem;
     color: white;
 }
 
-.header_menu>li:hover{
+
+
+
+.header-menu>li:hover{
     cursor:pointer ;
     color:var(--orange);
     cursor:pointer;
